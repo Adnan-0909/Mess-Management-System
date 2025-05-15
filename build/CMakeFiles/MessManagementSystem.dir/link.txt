@@ -1,3 +1,0 @@
-"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\MessManagementSystem.dir/objects.a
-C:\Qt\Tools\mingw1310_64\bin\ar.exe qc CMakeFiles\MessManagementSystem.dir/objects.a @CMakeFiles\MessManagementSystem.dir\objects1.rsp
-C:\Qt\Tools\mingw1310_64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\MessManagementSystem.dir/objects.a -Wl,--no-whole-archive -o MessManagementSystem.exe -Wl,--out-implib,libMessManagementSystem.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\MessManagementSystem.dir\linkLibs.rsp

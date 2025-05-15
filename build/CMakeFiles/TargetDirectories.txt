@@ -1,5 +1,0 @@
-C:/Users/adnan/MessManagementSystem/build/CMakeFiles/MessManagementSystem.dir
-C:/Users/adnan/MessManagementSystem/build/CMakeFiles/edit_cache.dir
-C:/Users/adnan/MessManagementSystem/build/CMakeFiles/rebuild_cache.dir
-C:/Users/adnan/MessManagementSystem/build/CMakeFiles/MessManagementSystem_autogen_timestamp_deps.dir
-C:/Users/adnan/MessManagementSystem/build/CMakeFiles/MessManagementSystem_autogen.dir
