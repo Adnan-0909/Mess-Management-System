@@ -1,0 +1,68 @@
+[
+{
+  "directory": "C:/Users/adnan/MessManagementSystem/build",
+  "command": "C:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_PRINTSUPPORT_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/MessManagementSystem.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\MessManagementSystem.dir\\MessManagementSystem_autogen\\mocs_compilation.cpp.obj -c C:\\Users\\adnan\\MessManagementSystem\\build\\MessManagementSystem_autogen\\mocs_compilation.cpp",
+  "file": "C:/Users/adnan/MessManagementSystem/build/MessManagementSystem_autogen/mocs_compilation.cpp",
+  "output": "CMakeFiles/MessManagementSystem.dir/MessManagementSystem_autogen/mocs_compilation.cpp.obj"
+},
+{
+  "directory": "C:/Users/adnan/MessManagementSystem/build",
+  "command": "C:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_PRINTSUPPORT_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/MessManagementSystem.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\MessManagementSystem.dir\\src\\main.cpp.obj -c C:\\Users\\adnan\\MessManagementSystem\\src\\main.cpp",
+  "file": "C:/Users/adnan/MessManagementSystem/src/main.cpp",
+  "output": "CMakeFiles/MessManagementSystem.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/adnan/MessManagementSystem/build",
+  "command": "C:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_PRINTSUPPORT_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/MessManagementSystem.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\MessManagementSystem.dir\\src\\mainwindow.cpp.obj -c C:\\Users\\adnan\\MessManagementSystem\\src\\mainwindow.cpp",
+  "file": "C:/Users/adnan/MessManagementSystem/src/mainwindow.cpp",
+  "output": "CMakeFiles/MessManagementSystem.dir/src/mainwindow.cpp.obj"
+},
+{
+  "directory": "C:/Users/adnan/MessManagementSystem/build",
+  "command": "C:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_PRINTSUPPORT_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/MessManagementSystem.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\MessManagementSystem.dir\\src\\student.cpp.obj -c C:\\Users\\adnan\\MessManagementSystem\\src\\student.cpp",
+  "file": "C:/Users/adnan/MessManagementSystem/src/student.cpp",
+  "output": "CMakeFiles/MessManagementSystem.dir/src/student.cpp.obj"
+},
+{
+  "directory": "C:/Users/adnan/MessManagementSystem/build",
+  "command": "C:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_PRINTSUPPORT_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/MessManagementSystem.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\MessManagementSystem.dir\\src\\menu.cpp.obj -c C:\\Users\\adnan\\MessManagementSystem\\src\\menu.cpp",
+  "file": "C:/Users/adnan/MessManagementSystem/src/menu.cpp",
+  "output": "CMakeFiles/MessManagementSystem.dir/src/menu.cpp.obj"
+},
+{
+  "directory": "C:/Users/adnan/MessManagementSystem/build",
+  "command": "C:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_PRINTSUPPORT_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/MessManagementSystem.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\MessManagementSystem.dir\\src\\meal.cpp.obj -c C:\\Users\\adnan\\MessManagementSystem\\src\\meal.cpp",
+  "file": "C:/Users/adnan/MessManagementSystem/src/meal.cpp",
+  "output": "CMakeFiles/MessManagementSystem.dir/src/meal.cpp.obj"
+},
+{
+  "directory": "C:/Users/adnan/MessManagementSystem/build",
+  "command": "C:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_PRINTSUPPORT_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/MessManagementSystem.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\MessManagementSystem.dir\\src\\user.cpp.obj -c C:\\Users\\adnan\\MessManagementSystem\\src\\user.cpp",
+  "file": "C:/Users/adnan/MessManagementSystem/src/user.cpp",
+  "output": "CMakeFiles/MessManagementSystem.dir/src/user.cpp.obj"
+},
+{
+  "directory": "C:/Users/adnan/MessManagementSystem/build",
+  "command": "C:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_PRINTSUPPORT_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/MessManagementSystem.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\MessManagementSystem.dir\\src\\menusuggestion.cpp.obj -c C:\\Users\\adnan\\MessManagementSystem\\src\\menusuggestion.cpp",
+  "file": "C:/Users/adnan/MessManagementSystem/src/menusuggestion.cpp",
+  "output": "CMakeFiles/MessManagementSystem.dir/src/menusuggestion.cpp.obj"
+},
+{
+  "directory": "C:/Users/adnan/MessManagementSystem/build",
+  "command": "C:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_PRINTSUPPORT_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/MessManagementSystem.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\MessManagementSystem.dir\\src\\welcomewindow.cpp.obj -c C:\\Users\\adnan\\MessManagementSystem\\src\\welcomewindow.cpp",
+  "file": "C:/Users/adnan/MessManagementSystem/src/welcomewindow.cpp",
+  "output": "CMakeFiles/MessManagementSystem.dir/src/welcomewindow.cpp.obj"
+},
+{
+  "directory": "C:/Users/adnan/MessManagementSystem/build",
+  "command": "C:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_PRINTSUPPORT_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/MessManagementSystem.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\MessManagementSystem.dir\\src\\logindialog.cpp.obj -c C:\\Users\\adnan\\MessManagementSystem\\src\\logindialog.cpp",
+  "file": "C:/Users/adnan/MessManagementSystem/src/logindialog.cpp",
+  "output": "CMakeFiles/MessManagementSystem.dir/src/logindialog.cpp.obj"
+},
+{
+  "directory": "C:/Users/adnan/MessManagementSystem/build",
+  "command": "C:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_PRINTSUPPORT_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/MessManagementSystem.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\MessManagementSystem.dir\\qrc_resources.cpp.obj -c C:\\Users\\adnan\\MessManagementSystem\\build\\qrc_resources.cpp",
+  "file": "C:/Users/adnan/MessManagementSystem/build/qrc_resources.cpp",
+  "output": "CMakeFiles/MessManagementSystem.dir/qrc_resources.cpp.obj"
+}
+]

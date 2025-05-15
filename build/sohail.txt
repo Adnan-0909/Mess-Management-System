@@ -1,0 +1,11 @@
+********** Mess Bill **********
+Registration Number: 2024057
+Name: Adnan
+Department: Data Science
+Hostel: 12
+Room Number: 11
+------------------------------
+Total Dues: 0.00
+------------------------------
+Generated on: 2025-05-13 17:32:14
+******************************

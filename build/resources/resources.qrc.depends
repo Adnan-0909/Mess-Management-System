@@ -1,0 +1,5 @@
+<RCC>
+ <qresource prefix="/">
+  <file>giki_logo.png</file>
+ </qresource>
+</RCC> 
